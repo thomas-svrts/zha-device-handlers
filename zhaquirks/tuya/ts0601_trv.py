@@ -1533,6 +1533,7 @@ class MoesHY368_Type1(TuyaThermostat):
             ("_TZE200_cpmgn2cf", "TS0601"),
             ("_TZE200_9sfg7gm0", "TS0601"),
             ("_TZE200_8whxpsiw", "TS0601"),
+            ("_TZE200_b6wax7g0", "TS0601"),
         ],
         ENDPOINTS: {
             1: {
@@ -1583,7 +1584,7 @@ class MoesHY368_Type1new(TuyaThermostat):
         #  endpoint=1 profile=260 device_type=81 device_version=0 input_clusters=[0, 4, 5, 61184]
         #  output_clusters=[10, 25]>
         MODELS_INFO: [
-            ("_TZE200_b6wax7g0", "TS0601"),
+
         ],
         ENDPOINTS: {
             1: {
